@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['amazonka_2dexpress_2dsoft_80',['amazonka-express-soft',['../index.html',1,'']]]
+  ['amazonka_2dexpress_2dsoft_82',['amazonka-express-soft',['../index.html',1,'']]]
 ];
