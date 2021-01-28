@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['main_81',['main',['../namespacemanage.html#afd5b00260cc364aa5bde07e227c6ea78',1,'manage']]]
+  ['horizontal_5fratio_81',['horizontal_ratio',['../classeye__tracking_1_1gaze__tracking_1_1gaze__tracking_1_1GazeTracking.html#a084d05866562e868e332fb4208b0b1a6',1,'eye_tracking::gaze_tracking::gaze_tracking::GazeTracking']]]
 ];

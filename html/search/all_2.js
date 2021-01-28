@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['detect_5firis_5',['detect_iris',['../classeye__tracking_1_1gaze__tracking_1_1pupil_1_1Pupil.html#a9e66d8abd1696671feb7505a1fb25023',1,'eye_tracking::gaze_tracking::pupil::Pupil']]],
-  ['direction_6',['direction',['../classeye__tracking_1_1gaze__tracking_1_1gaze__tracking_1_1GazeTracking.html#a311dc358c940562f6f2dfb8a19d0148c',1,'eye_tracking::gaze_tracking::gaze_tracking::GazeTracking']]]
+  ['calibrate_5',['calibrate',['../classeye__tracking_1_1gaze__tracking_1_1gaze__tracking_1_1GazeTracking.html#a12c9f0ca71c0020ba4afd0a8c5f56d27',1,'eye_tracking::gaze_tracking::gaze_tracking::GazeTracking']]],
+  ['calibration_6',['Calibration',['../classeye__tracking_1_1gaze__tracking_1_1calibration_1_1Calibration.html',1,'eye_tracking::gaze_tracking::calibration']]],
+  ['contributing_20to_20amazonka_20express_20software_7',['Contributing to Amazonka Express software',['../md_CONTRIBUTING.html',1,'']]]
 ];

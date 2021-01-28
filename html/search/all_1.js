@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['calibrate_2',['calibrate',['../classeye__tracking_1_1gaze__tracking_1_1gaze__tracking_1_1GazeTracking.html#a12c9f0ca71c0020ba4afd0a8c5f56d27',1,'eye_tracking::gaze_tracking::gaze_tracking::GazeTracking']]],
-  ['calibration_3',['Calibration',['../classeye__tracking_1_1gaze__tracking_1_1calibration_1_1Calibration.html',1,'eye_tracking::gaze_tracking::calibration']]],
-  ['contributing_20to_20amazonka_20express_20software_4',['Contributing to Amazonka Express software',['../md_CONTRIBUTING.html',1,'']]]
+  ['add_5fendpoint_1',['add_endpoint',['../classstudent__state__api_1_1RestApi.html#a77db39e3fb13a65eca1745fc1f07ba89',1,'student_state_api::RestApi']]],
+  ['add_5fheader_2',['add_header',['../classstudent__state__api_1_1RestApi.html#acdd178264ec97b7cf6c672c667b46e3c',1,'student_state_api::RestApi']]],
+  ['annotated_5fframe_3',['annotated_frame',['../classeye__tracking_1_1gaze__tracking_1_1gaze__tracking_1_1GazeTracking.html#a3ea3acca1d6a0ff3e065eb5a1a159069',1,'eye_tracking::gaze_tracking::gaze_tracking::GazeTracking']]],
+  ['amazonka_2dexpress_2dsoft_4',['amazonka-express-soft',['../index.html',1,'']]]
 ];
